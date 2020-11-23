@@ -121,7 +121,7 @@
 
    - :kissing_cat: 如果您认为本项目对您有一定帮助，为了更好的开源安全工具！请赞赏我！感谢您的赞赏！
 
-   ![praise](https://github.com/YagamiiLight/Cerberus/blob/master/images/praise.jpg)
+   ![praise](https://github.com/lvwuwei/Cerberus/blob/master/images/wx_reward.png)
 
 ## 声明
 
